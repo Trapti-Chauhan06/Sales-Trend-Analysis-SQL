@@ -22,7 +22,7 @@ Orders dataset containing:
 - MONTH()
 
 ## Files Included
-- Sales_Analysis
+- Sales_Trend_Analysis
 - README.md
 - Screenshots
 
